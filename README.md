@@ -1,14 +1,11 @@
 # 케라스 창시자에게 배우는 딥러닝 2판
 
-![cover](cover.jpg)
+## 책 정보
 
-이 저장소는 <[케라스 창시자에게 배우는 딥러닝 2판](https://tensorflow.blog/kerasdl2/)> 책의 주피터 노트북을 담고 있습니다. 이 책은 케라스(Keras) 라이브러리의 창시자이고 현재 구글의 소프트웨어 엔지니어인 프랑소와 숄레(François Chollet)가 쓴 <Deep Learning with Python 2nd Edition>의 번역서입니다. 번역서는 628페이지, 풀 컬러, 양장으로 제작되었습니다.
+- 프랑소와 숄레의 딥러닝 책 "케라스 창시자에게 배우는 딥러닝 2판"의 Jupyter Notebook 파일들이 저장되어 있습니다.
+- 원작: 영문판 "Deep Learning with Python 2nd Edition"
 
-* 교보문고 https://bit.ly/3dv256v
-* 예스24 https://bit.ly/3QP05oe
-* 알라딘 https://bit.ly/3QrGCKt
-
-각 목차에 해당하는 노트북은 다음을 참고하세요.
+## 목차
 
 * 2장 [신경망의 수학적 구성 요소](chapter02_mathematical-building-blocks.ipynb)
 * 3장 [케라스와 텐서플로 소개](chapter03_introduction-to-keras-and-tf.ipynb)
